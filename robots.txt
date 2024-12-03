@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alphaverse-tn.github.io/company_website/sitemap.xml
