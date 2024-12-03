@@ -7,13 +7,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://alphaverse-tn.github.io/company_website/careers.html</loc>
+    <loc>https://alphaverse-tn.github.io/company_website/careers</loc>
     <lastmod>2024-04-03</lastmod>  <!-- Update this date -->
     <changefreq>monthly</changefreq> <!-- Adjust as needed -->
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://alphaverse-tn.github.io/company_website/contacts.html</loc>
+    <loc>https://alphaverse-tn.github.io/company_website/contacts</loc>
     <lastmod>2024-04-03</lastmod>  <!-- Update this date -->
     <changefreq>monthly</changefreq> <!-- Adjust as needed -->
     <priority>0.7</priority>
